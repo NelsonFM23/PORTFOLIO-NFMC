@@ -23,8 +23,8 @@ export const projectsPortfolio = [
             {name:"CSS",   src:cssImage  },
         ],
         description: "Application created with React JS and CSS to make a request an external API of Rick & Morty.",
-        repository: "AQUI DEBEN COLOCAR EL LINK DEL GITHUB DEL PROYECTO",
-        website:"#!" //ustedes deben colocar aquí el link del enlace público de netlify
+        repository: "https://github.com/NelsonFM23/Control-GASTOS.git",
+        website:"https://main--silly-babka-17bf23.netlify.app/"
     },
     {
         title: "Todo list",
@@ -34,8 +34,8 @@ export const projectsPortfolio = [
             {name:"Semantic UI React",   src:semanticImage  },
         ],
         description: "Application created with React JS and to make a list of tasks where you can add or remove it.",
-        repository: "AQUI DEBEN COLOCAR EL LINK DEL GITHUB DEL PROYECTO",
-        website:"#!" //ustedes deben colocar aquí el link del enlace público de netlify
+        repository: "https://github.com/NelsonFM23/LISTAREAS-REACT.git",
+        website:"https://main--deft-bonbon-802d2c.netlify.app/"
     },
     {
         title: "Simpsons API",
@@ -58,8 +58,8 @@ export const projectsPortfolio = [
             {name:"Semantic",   src:semanticImage  },
         ],
         description: "Application created with React JS, React-Router and Sass to make a request an external API of Marvel.",
-        repository: "AQUI DEBEN COLOCAR EL LINK DEL GITHUB DEL PROYECTO",
-        website:"#!" //ustedes deben colocar aquí el link del enlace público de netlify
+        repository: "https://github.com/NelsonFM23/MARVEL-REACT.git",
+        website:"https://main--thriving-duckanoo-77fff3.netlify.app/"
     },
     {
         title: "Dynamic Form",
@@ -69,8 +69,8 @@ export const projectsPortfolio = [
             {name:"React Bootstrap",   src:reactBootstrapImage  },
         ],
         description: "Application of a landing page created with React JS and React Bootstrap to make a form with dynamic fields.",
-        repository: "AQUI DEBEN COLOCAR EL LINK DEL GITHUB DEL PROYECTO",
-        website:"#!" //ustedes deben colocar aquí el link del enlace público de netlify
+        repository: "https://github.com/NelsonFM23/FORMULARIODINAMICO.git",
+        website:"https://main--fancy-hummingbird-c1b962.netlify.app/"
     },
     {
         title: "Fuel Station",
@@ -81,8 +81,8 @@ export const projectsPortfolio = [
             {name:"React Router DOM",   src:reactRouterdomImage  },
         ],
         description: "Application created with Vite where you can save the information and see it on a summary.",
-        repository: "AQUI DEBEN COLOCAR EL LINK DEL GITHUB DEL PROYECTO",
-        website:"#!" //ustedes deben colocar aquí el link del enlace público de netlify
+        repository: "https://github.com/NelsonFM23/GASOLINERA-VITE.git",
+        website:"https://main--tiny-muffin-4a00a0.netlify.app/"
     },
     
 ];
